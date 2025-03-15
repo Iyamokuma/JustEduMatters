@@ -9,13 +9,14 @@ import WhoWeAre from './pages/Who-we-are';
 import OurServices from './pages/OurServicesPage';
 import './i18n/i18n';
 import AboutJem from './pages/AboutJem';
+import EducationPolicies from './pages/Education';
 
 const App = () => { 
   return (
     
     <Router>
       <Routes>
-        <Route path="/Homepage" element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/services" element={<ServicesPage />} />
         <Route path="/resources" element={<ResourcesPage />} />
         <Route path="/about" element={<AboutJem />} />
@@ -23,6 +24,7 @@ const App = () => {
         <Route path="/who-we-are" element={<WhoWeAre />} />
         <Route path="/our-services" element={<OurServices />} />
         <Route path="/contact" element={<ContactPage />} /> 
+        <Route path="/education" element={<EducationPolicies />} /> 
       </Routes>
     </Router>
   );

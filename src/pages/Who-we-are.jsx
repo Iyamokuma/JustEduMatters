@@ -13,7 +13,7 @@ const WhoWeAre = () => {
   const avatars = [Avata1, Avata2, Avata3, Avata4, Avata5, Avata6];   
 
   return (
-    <div className="flex flex-col lg:flex-row items-center gap-12 px-6 lg:px-8 py-12 lg:py-16 max-w-7xl mx-auto">
+    <div id="who-we-are" className="flex flex-col lg:flex-row items-center gap-12 px-6 lg:px-8 py-12 lg:py-16 max-w-7xl mx-auto">
       {/* Image Section */}
       <div className="flex-1">
         <div className="relative">
@@ -54,7 +54,7 @@ const WhoWeAre = () => {
           </div>
         </div>
 
-        <button className="bg-[#a961a9] mt-[100px] text-white px-6 py-3 rounded-full flex items-center gap-2 border border-white hover:bg-purple-700 transition-colors">
+        <button className="bg-[#a961a9] mt-6 text-white px-6 py-3 rounded-full flex items-center gap-2 border border-white hover:bg-purple-700 transition-colors">
           {t('button_text')}
           <span className="ml-1">→</span>
         </button>

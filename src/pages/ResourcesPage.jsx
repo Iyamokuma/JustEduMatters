@@ -89,12 +89,12 @@ const ResourcesPage = () => {
   ];
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 lg:py-12 mb-10 ">
+    <div className=" ">
       <Navbar />
 
      
 
-      <div className="mb-16 overflow-hidden">
+      <div className=" overflow-hidden ">
         <div className="p-8">
         <h1 className="text-4xl font-extrabold text-gray-800 mb-10             text-center">Articles</h1>
           <p className="text-center text-gray-600 max-w-3xl mx-auto text-base leading-relaxed">
@@ -103,7 +103,7 @@ const ResourcesPage = () => {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-32">
         {resources.map((resource) => (
           <div
             key={resource.id}

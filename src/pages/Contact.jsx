@@ -31,7 +31,7 @@ const ContactPage = () => {
           </div>
 
           {/* Contact Form */}
-          <div className="bg-white rounded-xl shadow-lg p-6 sm:p-8">
+          <div className="bg-white rounded-xl shadow-lg p-6 sm:p-8  mb-32">
             <h2 className="text-2xl font-medium mb-6 text-center lg:text-left">Send us a message</h2>
             
             <form onSubmit={handleSubmit} className="space-y-6">

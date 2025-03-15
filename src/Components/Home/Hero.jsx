@@ -63,7 +63,12 @@ const Hero = () => {
               {t('get-started-button')}
               <ArrowUpRight className="w-4 h-4 ml-2" />
             </button>
-            <button className="px-6 py-3 text-gray-700 bg-gray-100 rounded-full border-l-2 transition-colors">
+            <button 
+              onClick={() => {
+                document.getElementById('who-we-are').scrollIntoView({ behavior: 'smooth' });
+              }}
+              className="px-6 py-3 text-gray-700 bg-gray-100 rounded-full border-l-2 transition-colors hover:bg-black hover:text-white"
+            >
               {t('learn-more-button')}
             </button>
           </div>
@@ -75,7 +80,7 @@ const Hero = () => {
           <img src={Heroimg} alt="Child playing with building blocks" className="w-full h-full object-cover rounded-2xl" />
         </div>
       </div>
-    </div>
+    </div> 
   );
 };
 

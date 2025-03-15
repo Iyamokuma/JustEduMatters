@@ -4,19 +4,19 @@
   "title-secondary": "Matters",
   "community-text": "Join our 5k+ strong community",
   "hero-description": "Just Education Matters CIC is a newly established company set up to tackle inequalities in education, particularly in the area of school exclusions.",
-  "get-started-button": "Get Started",
+  "get-started-button": "Get Support",
   "learn-more-button": "Learn More",
   "about_us_title": "A little About Us",
   "about_us_description": "We support parents to support their children by providing training, advice, advocacy, and support using a proactive approach to improve the educational outcomes for children.",
   "vision_title": "Our Vision",
   "vision_description": "We want to see an end to inequality in educational outcomes. We aim to achieve this by changing the education landscape through reducing the incidents of exclusions for groups disproportionately excluded from education and reversing the trend of over-representation for these groups.",
-  "button_text": "Get Started",
+  "button_text": "Get Support",
   "about_us_content": "We support parents to support their children by providing training, advice, advocacy, and support using a proactive approach to improve the educational outcomes for children.",
   "vision_content": "We want to see an end to inequality in educational outcomes. We aim to achieve this by changing the education landscape through reducing the incidents of exclusions for groups disproportionately excluded from education and reversing the trend of over-representation for these groups.",
   "get_started": "Get Started",
   "articles_title": "Articles",
   "articles_intro_text": "Explain to the customer how competent your team is...",
-  "view_past_events": "View Past Events",
+  "view_past_events": "More Articles",
   "article_image_alt": "Classroom scene with teacher",
   "article_title": "Exclusion from maintained schools...",
   "article_summary": "Statutory guidance for those with legal responsibilities in relation to exclusion. This document from the Department for Education provides a guide to the legislation that governs the exclusion of pupils from maintained schools, pupil referral units (PRUs), academy schools (including free schools, studio schools and university technology colleges) and alternative provision academies (including alternative provision free schools) in England. The Department for Education, September 2017",
@@ -83,5 +83,8 @@
     "messagePlaceholder": "Enter your message",
     "cancel": "Cancel",
     "submit": "Submit"
+  },
+  "articles": {
+    "more_articles": "More Articles"
   }
 }

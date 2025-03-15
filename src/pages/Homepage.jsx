@@ -4,8 +4,8 @@ import Hero from '../Components/Home/Hero';
 import WhoWeAre from './Who-we-are';
 import UpcomingEvents from './UpcomingEvents';
 import Articles from './Articles';
-import OurServices from './OurServicesPage';
 import Footer from '../Components/Footer';
+import FAQPage from './Faq';
 
 const HomePage = () => {
   return (
@@ -33,7 +33,7 @@ const HomePage = () => {
         </section>
 
         <section id="our-services" className="py-10 ">
-          <OurServices />
+          <FAQPage />
         </section>
 
         

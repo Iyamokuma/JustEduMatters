@@ -81,9 +81,9 @@ const Navbar = () => {
 
         {/* Desktop Navigation */}
         <div
-          className="hidden md:flex items-center justify-center flex-grow"
+          className="hidden md:flex items-center justify-center flex-grow ml-36"
           style={{
-            gap: '75px',
+            gap: '50px',
             fontFamily: 'Inter, sans-serif',
           }}
         >
@@ -101,6 +101,9 @@ const Navbar = () => {
 
           <Link to="/about" className="text-gray-700 hover:text-purple-600">
             {t('About Us')}
+          </Link>
+          <Link to="/education" className="text-gray-700 hover:text-purple-600">
+            {t('Education Law')}
           </Link>
         </div>
 

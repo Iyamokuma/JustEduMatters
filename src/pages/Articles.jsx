@@ -16,12 +16,10 @@ const Articles = () => {
           <h1 className="text-3xl font-semibold text-gray-900 mb-2">
             {t('articles_title')}
           </h1>
-          <p className="text-gray-600 text-base">
-            {t('articles_intro_text')}
-          </p>
+          
         </div>
         <button className="bg-purple-500 hover:bg-purple-600 text-white px-6 py-3 rounded-full flex items-center gap-2 transition-colors">
-          {t('view_past_events')}
+          {t('articles.more_articles')}
           <ArrowUpRight className="w-4 h-4 ml-2" />
         </button>
       </div>

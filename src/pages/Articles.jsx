@@ -43,12 +43,7 @@ const Articles = () => {
         <p className="text-gray-500 text-sm mb-6">{t('article_author')}</p>
 
         {/* Interactive Elements */}
-        <div className="flex items-center gap-4">
-          <button className="border border-black rounded-full px-6 py-2 flex items-center gap-2 hover:bg-gray-50 transition-colors">
-            <Download className="w-4 h-4" />
-            <span>{t('download_button')}</span>
-          </button>
-        </div>
+       
       </div>
 
       {/* Two Side-by-Side Pictures Section */}

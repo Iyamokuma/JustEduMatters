@@ -7,6 +7,7 @@ import Avata3 from '../Components/images/image 31 (1).png';
 import Avata4 from '../Components/images/image 34 (1).png';
 import Avata5 from '../Components/images/image 35 (1).png';
 import Avata6 from '../Components/images/image 36 (1).png';
+import { Link } from 'react-router-dom';
 
 const WhoWeAre = () => {
   const { t } = useTranslation();
@@ -54,10 +55,14 @@ const WhoWeAre = () => {
           </div>
         </div>
 
-        <button className="bg-[#a961a9] mt-6 text-white px-6 py-3 rounded-full flex items-center gap-2 border border-white hover:bg-purple-700 transition-colors">
-          {t('button_text')}
-          <span className="ml-1">→</span>
-        </button>
+            <Link
+      to="/contact"
+      className="bg-[#a961a9] mt-6 text-white px-6 w-1/2 py-3 rounded-full flex items-center gap-2 border border-white hover:bg-purple-700 transition-colors"
+    >
+      {t('button_text')}
+      <span className="ml-1">→</span>
+    </Link>
+
       </div>
     </div>
   );

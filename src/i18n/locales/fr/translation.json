@@ -90,5 +90,13 @@
       "cancel": "Annuler",
       "submit": "Soumettre"
     }
+  },
+  "resources": {
+    "title": "Articles",
+    "description": "Nous maintenons une galerie d'articles, de nouvelles et de mises à jour pertinentes pour notre travail et la réforme de l'éducation plus large. Envisagez de parcourir notre bibliothèque pour rester informé des nouveaux développements et campagnes.",
+    "download": "Télécharger",
+    "resource_1_title": "Exclusion des écoles maintenues, des académies et des unités de référence des élèves en Angleterre",
+    "resource_1_description": "Directives légales pour ceux ayant des responsabilités légales en matière d'exclusion. Ce document du ministère de l'Éducation fournit un guide sur la législation régissant l'exclusion des élèves des écoles maintenues, des unités de référence des élèves (PRU), des écoles académiques (y compris les écoles libres, les écoles de studio et les collèges de technologie universitaire) et des académies de provision alternative (y compris les écoles libres de provision alternative) en Angleterre.",
+    "resource_1_date": "Ministère de l'Éducation, septembre 2017"
   }
 }

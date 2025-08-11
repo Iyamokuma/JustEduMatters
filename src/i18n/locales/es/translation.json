@@ -5,7 +5,7 @@
   "Events": "Eventos",
   "About Us": "Sobre Nosotros",
   "Contact Us": "Contáctanos",
-
+  
   "title-main": "Porque",
   "title-highlight": "la educación",
   "title-secondary": "importa",
@@ -54,5 +54,57 @@
   "service_advice_description": "En JEM CIC ofrecemos asesoría presencial para apoyar a los padres y nuestras comunidades a navegar el panorama educativo.",
   "services_page_title": "SERVICIOS",
   "services_page_description": "JEM CIC ofrece una variedad de servicios para apoyar a los padres y nuestras comunidades en el ámbito educativo. Descubre más a continuación.",
-  "find_out_more": "Descubre más"
+  "find_out_more": "Descubre más",
+  "services": {
+    "tag": "Servicios",
+    "heading": "Lo que ofrecemos",
+    "description": "JEM CIC (JEM) ofrece una gama de servicios para apoyar a los padres y nuestras comunidades a navegar el panorama educativo. Además de la información general disponible en el sitio web, ofrecemos servicios generales y personalizados. Descubre más sobre cómo brindamos nuestros servicios.",
+    "seeMore": "Ver más",
+    "requestService": "Solicitar servicio",
+    "advice": {
+      "title": "Asesoría",
+      "description": "Ofrecemos asesoría telefónica y presencial sobre temas relacionados con la exclusión y asuntos afines.",
+      "extraText": "Nuestros asesores experimentados ayudan a navegar desafíos educativos complejos con orientación personalizada adaptada a tus necesidades.",
+      "alt": "Imagen de Asesoría"
+    },
+    "advocacy": {
+      "title": "Defensa",
+      "description": "Defendemos a los padres de dos maneras, dependiendo de lo que necesites.",
+      "extraText": "Esto puede incluir mediación con las escuelas y asistencia para entender las políticas y procedimientos educativos.",
+      "alt": "Imagen de Defensa"
+    },
+    "forums": {
+      "title": "Foros para Padres",
+      "description": "Organizamos foros regulares para padres y grupos comunitarios sobre los temas que deseen explorar.",
+      "extraText": "Nuestros foros crean una plataforma para compartir conocimientos, apoyo entre pares y solución colaborativa de problemas.",
+      "alt": "Imagen de Foros para Padres"
+    }
+  },
+  "modal": {
+    "title": "Solicitar un Servicio",
+    "fullName": "Nombre Completo",
+    "fullNamePlaceholder": "Ingresa tu nombre completo",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "Ingresa tu correo electrónico",
+    "phone": "Número de Teléfono",
+    "phonePlaceholder": "Ingresa tu número de teléfono",
+    "serviceType": "Tipo de Servicio",
+    "serviceTypePlaceholder": "Ingresa el tipo de servicio",
+    "message": "Mensaje",
+    "messagePlaceholder": "Ingresa tu mensaje",
+    "cancel": "Cancelar",
+    "submit": "Enviar"
+  },
+  "articles": {
+    "more_articles": "Más Artículos"
+  },
+  "resources_title": "Artículos",
+  "resources_description": "Mantenemos una galería de artículos, noticias y actualizaciones relevantes para nuestro trabajo y reforma educativa más amplia. Considere pasar por nuestra biblioteca para mantenerse informado sobre nuevos desarrollos y campañas.",
+  "download": "Descargar",
+  "resource_1_title": "Exclusión de las escuelas mantenidas, academias y unidades de derivación de alumnos en Inglaterra",
+  "resource_1_description": "Orientación estatutaria para aquellos con responsabilidades legales en relación con la exclusión. Este documento del Departamento de Educación proporciona una guía sobre la legislación que rige la exclusión de alumnos de escuelas mantenidas, unidades de derivación de alumnos (PRU), escuelas académicas (incluidas las escuelas libres, escuelas de estudio y colegios de tecnología universitaria) y academias de provisión alternativa (incluidas las escuelas libres de provisión alternativa) en Inglaterra.",
+  "resource_1_date": "Departamento de Educación, septiembre de 2017",
+  "resource_2_title": "Explotación sexual infantil",
+  "resource_2_description": "Definición y guía para los profesionales, líderes locales y responsables de la toma de decisiones que trabajan para proteger a los niños de la explotación sexual infantil. Este consejo no es obligatorio y se ha producido para ayudar a los profesionales, líderes locales y responsables de la toma de decisiones que trabajan con niños y familias a identificar la explotación sexual infantil y tomar las medidas adecuadas en respuesta.",
+  "resource_2_date": "Departamento de Educación, febrero de 2017"
 }

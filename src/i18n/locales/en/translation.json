@@ -86,5 +86,20 @@
   },
   "articles": {
     "more_articles": "More Articles"
-  }
+  },
+  "resources_title": "Articles",
+  "resources_description": "We maintain a gallery of articles, news, and updates relevant to our work and broader educational reform. Consider going through our library to stay informed about new developments and campaigns.",
+  "download": "Download",
+  "resource_1_title": "Exclusion from maintained schools, academies and pupil referral units in England",
+  "resource_1_description": "Statutory guidance for those with legal responsibilities in relation to exclusion. This document from the Department for Education provides a guide to the legislation that governs the exclusion of pupils from maintained schools, pupil referral units (PRUs), academy schools (including free schools, studio schools, and university technology colleges), and alternative provision academies (including alternative provision free schools) in England.",
+  "resource_1_date": "The Department for Education, September 2017",
+  "resource_2_title": "Child sexual exploitation",
+  "resource_2_description": "Definition and a guide for practitioners, local leaders, and decision-makers working to protect children from child sexual exploitation. This advice is non-statutory, and has been produced to help practitioners, local leaders, and decision-makers who work with children and families to identify child sexual exploitation and take appropriate action in response.",
+  "resource_2_date": "The Department for Education, February 2017",
+  "resource_3_title": "Elective home education",
+  "resource_3_description": "Departmental guidance from the Department for Education. It is non-statutory, and has been produced to help parents understand their obligations and rights in relation to elective home education.",
+  "resource_3_date": "The Department for Education, April 2019",
+  "resource_4_title": "Exploring the issue of off-rolling",
+  "resource_4_description": "Guidance on off-rolling.",
+  "resource_4_date": "May 2019"
 }

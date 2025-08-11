@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 import Logo from '../images/JEM_logo 1.png';
 import { ArrowUpRight } from 'lucide-react';
 
-const LanguageSelector = () => {
+const LanguageSelector = () => { 
   const { i18n } = useTranslation();
   const languages = [
     { code: 'en', name: 'English', flag: '🇬🇧' },
@@ -195,6 +195,13 @@ const Navbar = () => {
                   onClick={() => setIsOpen(false)}
                 >
                   {t('About Us')}
+                </Link>
+                <Link
+                  to="/faq"
+                  className="block text-center bg-pink-500 text-white py-2 rounded-lg hover:bg-pink-600"
+                  onClick={() => setIsOpen(false)}
+                >
+                  {t('FAQ')}  
                 </Link>
                 <Link
                   to="/contact"

@@ -90,5 +90,20 @@
       "cancel": "Cancelar",
       "submit": "Enviar"
     }
-  }
+  },
+  "resources_title": "Artigos",
+  "resources_description": "Mantemos uma galeria de artigos, notícias e atualizações relevantes para o nosso trabalho e reforma educacional mais ampla. Considere passar pela nossa biblioteca para se manter informado sobre novos desenvolvimentos e campanhas.",
+  "download": "Baixar",
+  "resource_1_title": "Exclusão das escolas mantidas, academias e unidades de referência de alunos na Inglaterra",
+  "resource_1_description": "Orientações legais para aqueles com responsabilidades legais em relação à exclusão. Este documento do Departamento de Educação fornece um guia sobre a legislação que rege a exclusão de alunos de escolas mantidas, unidades de referência de alunos (PRUs), escolas acadêmicas (incluindo escolas livres, escolas de estúdios e faculdades de tecnologia universitária) e academias de provisão alternativa (incluindo escolas livres de provisão alternativa) na Inglaterra.",
+  "resource_1_date": "Departamento de Educação, setembro de 2017",
+  "resource_2_title": "Exploração sexual infantil",
+  "resource_2_description": "Definição e um guia para profissionais, líderes locais e tomadores de decisão que trabalham para proteger as crianças contra a exploração sexual infantil. Este conselho não é obrigatório e foi produzido para ajudar profissionais, líderes locais e tomadores de decisão que trabalham com crianças e famílias a identificar a exploração sexual infantil e tomar as medidas adequadas em resposta.",
+  "resource_2_date": "Departamento de Educação, fevereiro de 2017",
+  "resource_3_title": "Educação domiciliar eletiva",
+  "resource_3_description": "Orientação departamental do Departamento de Educação. Não é obrigatório e foi produzida para ajudar os pais a entender suas obrigações e direitos em relação à educação domiciliar eletiva.",
+  "resource_3_date": "Departamento de Educação, abril de 2019",
+  "resource_4_title": "Explorando a questão da exclusão escolar",
+  "resource_4_description": "Orientações sobre a exclusão escolar.",
+  "resource_4_date": "Maio de 2019"
 }

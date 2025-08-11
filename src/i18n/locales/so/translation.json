@@ -92,5 +92,14 @@
       "cancel": "Canshuuro",
       "submit": "Gudbi"
     }
-  }
+  },
+  "resources_title": "Maqaallo",
+  "resources_description": "Waxaan haynaa muuqaalka maqaallada, wararka, iyo cusboonaysiinta la xiriirta shaqadeena iyo isbeddellada waxbarasho ee guud. Ka fiirso inaad u tagto maktabadeena si aad u ogaato horumarka cusub iyo ololeyaasha.",
+  "download": "Download",
+  "resource_1_title": "Ka saarista iskuulada la ilaaliyo, akadeemiyada iyo unugyada tixraaca ardayda ee Ingiriiska",
+  "resource_1_description": "Tilmaamaha sharciga ee kuwa leh masuuliyadaha sharciga ee la xiriira ka saarista. Dukumentigan wuxuu ka yimid Waaxda Waxbarashada wuxuuna bixiyaan hagitaan ku saabsan sharciga xukuma ka saarista ardayda iskuulada la ilaaliyo, unugyada tixraaca ardayda (PRUs), iskuulada akadeemiyada (oo ay ku jiraan iskuulada bilaashka ah, iskuulada studio, iyo jaamacadaha tikniyoolajiyada), iyo akadeemiyada adeegga beddelka (oo ay ku jiraan iskuulada bilaashka ah ee adeegga beddelka) ee Ingiriiska.",
+  "resource_1_date": "Waaxda Waxbarashada, Sebtember 2017",
+  "resource_2_title": "Eksploitada galmada carruurta",
+  "resource_2_description": "Qeexid iyo hagitaan loogu talagalay xirfadlayaasha, hoggaamiyeyaasha maxalliga ah iyo go'aan qaadayaasha ka shaqeeya ilaalinta carruurta ka hortagga isdhexgalka galmada carruurta. Talooyinkan waa kuwo aan sharciga ahayn, waxaana loo soo saaray si loo caawiyo xirfadlayaasha, hoggaamiyeyaasha maxalliga ah iyo go'aan qaadayaasha ka shaqeeya carruurta iyo qoysaska si ay u aqoonsadaan isdhexgalka galmada carruurta iyo inay qaadaan tallaabooyin ku habboon jawaab celinta.",
+  "resource_2_date": "Waaxda Waxbarashada, Febraayo 2017"
 }
